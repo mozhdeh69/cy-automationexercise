@@ -1,0 +1,23 @@
+# Node modules (نصب مجددش از npm)
+node_modules/
+
+# Cypress test results
+cypress/screenshots/
+cypress/videos/
+cypress/results/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables (اگه استفاده می‌کنی)
+.env
+
+# IDE / PhpStorm
+.idea/
+*.iml
